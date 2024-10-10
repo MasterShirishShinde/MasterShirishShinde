@@ -1,11 +1,14 @@
-- 👋 Hi, I’m @MasterShirishShinde
-- 👀 I’m interested in CODING,AI,ML AND MANY MORE...
-- 🌱 I’m currently learning ALL THE BASIC COMPUTER SKILLS AND CODING...
-- 💞️ I’m looking to collaborate with MANY AMBITIOUS PEOPLE BEACAUSE I AM ONE OF THEM...
-- 📫 How to reach me throught my social media links or from my portfolio website...
-- 😄 Pronouns: HE/HIM...
-- ⚡ Fun fact: STUDYING COMPUTER ENGINEERING...
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
+  Shirish Satish Shinde  
+  Pronouns: He/Him*  
+  Diploma in Computer Engineering (2nd Year)  
+
+  I am a dedicated learner with a strong interest in coding, artificial intelligence, machine learning, and emerging technologies. Currently, I am honing my          foundational skills in computer science and software development. My goal is to collaborate with driven and ambitious individuals who share my passion for          innovation and problem-solving.
+
+  Feel free to explore my portfolio and connect with me at: [https://shirishshinde.is-a.dev](https://shirishshinde.is-a.dev).  
+  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 <div>
 
 <picture>
