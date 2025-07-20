@@ -1,7 +1,7 @@
 
   -  Shirish Satish Shinde  
   -  Pronouns: He/Him
-  -  Diploma in Computer Engineering (2nd Year)  
+  -  Diploma in Computer Engineering (3rd Year)  
 
   -  I am a dedicated learner with a strong interest in coding, artificial intelligence, machine learning, and emerging technologies. Currently, I am honing my          foundational skills in computer science and 
   software development. My goal is to collaborate with driven and ambitious individuals who share my passion for          innovation and problem-solving.
