@@ -42,7 +42,8 @@
 ```yaml
 name:        Shirish Satish Shinde
 pronouns:    He/Him
-education:   Diploma in Computer Engineering (3rd Year)
+education:   Degree in Computer Engineering (2nd Year)
+             Diploma in Computer Engineering ✅
 interests:   [Coding, AI, ML, Emerging Tech]
 motivation:  Strong fundamentals, real problems, work I'm proud of
 portfolio:   shirishshinde.is-a.dev
