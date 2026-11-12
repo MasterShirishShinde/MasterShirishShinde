@@ -6,13 +6,13 @@
 <!-- ===================== TYPING ANIMATION ===================== -->
 <p align="center">
   <a href="https://shirishshinde.is-a.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shirish+%F0%9F%91%8B;Diploma+in+Computer+Engineering+%7C+3rd+Year;Learning+by+building%2C+one+project+at+a+time;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Progress+over+perfection+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=7CFC00&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Shirish+%F0%9F%91%8B;Degree+in+Computer+Engineering+%7C+2+Year;Learning+by+building%2C+one+project+at+a+time;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Progress+over+perfection+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Computer%20Engineering-Diploma%20%7C%203rd%20Year-7cfc00?style=for-the-badge&logo=google-scholar&logoColor=black" />
+  <img src="https://img.shields.io/badge/Computer%20Engineering-Diploma%20%7C%20Degree%20CE-7cfc00?style=for-the-badge&logo=google-scholar&logoColor=black" />
   <img src="https://img.shields.io/badge/Focused%20On-Coding%20%7C%20AI%20%7C%20ML-111111?style=for-the-badge&logo=matrix&logoColor=7cfc00" />
   <img src="https://img.shields.io/badge/Building-Useful%20%26%20Impactful%20Projects-111111?style=for-the-badge&logo=github&logoColor=7cfc00" />
 </p>
